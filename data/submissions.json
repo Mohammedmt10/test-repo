@@ -1,0 +1,48 @@
+[
+  {
+    "fullName": "Alice Vance",
+    "email": "alice.vance@devmail.io",
+    "phone": "+1 (555) 382-9901",
+    "portfolioUrl": "https://alicev.dev",
+    "gitHubUrl": "https://github.com/alicevance",
+    "preferredRole": "fullstack",
+    "experienceLevel": "5+",
+    "skills": ["React", "Next.js", "TypeScript", "Node.js", "Go", "AWS", "Docker", "PostgreSQL"],
+    "motivation": "I am passionate about building clean, modular architectures that scale. Your team's commitment to developer experience and premium user interfaces matches my career goals perfectly. I would love to contribute my Go microservices and React performance expertise to help you build the next-generation developer tooling.",
+    "techChallenge": "Redesigned a legacy monolith's real-time events pipeline. Replaced long-polling with a Go-based WebSocket hub and implemented Redis Pub/Sub for horizontal scaling. Reduced server CPU overhead by 70% and latency from 1.5s to < 80ms while maintaining 10k concurrent active connections.",
+    "expectedSalary": "135000",
+    "resumeFileName": "Alice_Vance_Resume.pdf",
+    "trackingId": "APP-829104",
+    "submittedAt": "2026-06-23T20:05:12.829Z"
+  },
+  {
+    "fullName": "Marcus Chen",
+    "email": "m.chen@frontendhub.org",
+    "phone": "+1 (555) 293-1823",
+    "portfolioUrl": "https://marcus.design",
+    "gitHubUrl": "https://github.com/marcuschen-dev",
+    "preferredRole": "frontend",
+    "experienceLevel": "3-5",
+    "skills": ["React", "Next.js", "TypeScript", "JavaScript", "CSS/Sass", "HTML5", "GraphQL"],
+    "motivation": "As a design-focused engineer, I care deeply about micro-interactions, responsive fluid designs, and core web vitals. I'm excited by the gorgeous aesthetic and responsive performance of your products, and I want to bring my frontend expertise to help keep the user experience premium and state-of-the-art.",
+    "techChallenge": "Built an interactive web-based design editor canvas from scratch using raw React hooks, canvas rendering context, and SVG overlays. Integrated custom undo/redo command history stacks and optimized layout paint boundaries, improving frame rate from 24fps to a smooth 60fps on low-end devices.",
+    "expectedSalary": "105000",
+    "resumeFileName": "Marcus_Chen_CV.pdf",
+    "trackingId": "APP-294812",
+    "submittedAt": "2026-06-23T19:54:33.109Z"
+  },
+  {
+    "fullName": "David Kim",
+    "email": "david.kim@backend-systems.net",
+    "gitHubUrl": "https://github.com/davidkim-sys",
+    "preferredRole": "backend",
+    "experienceLevel": "1-3",
+    "skills": ["Python", "Node.js", "PostgreSQL", "Docker", "Kubernetes", "Git"],
+    "motivation": "I enjoy solving problems behind the scenes, such as optimizing queries and writing robust API integrations. I am looking for a team that values clean code practices, testing, and continuous deployment where I can grow my backend engineering career.",
+    "techChallenge": "Optimized database queries in a high-volume REST API. Added composite indices and restructured complex N+1 SQL joins in Prisma/Sequelize, reducing server response times on search queries by 85% under heavy stress testing.",
+    "expectedSalary": "88000",
+    "resumeFileName": "David_Kim_Backend_Resume.pdf",
+    "trackingId": "APP-401923",
+    "submittedAt": "2026-06-23T19:30:15.552Z"
+  }
+]
